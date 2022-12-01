@@ -1,0 +1,22 @@
+package com.gitpractice.project;
+
+import java.util.concurrent.TimeUnit;
+
+public class WordPerMinClass {
+	
+	static String[] word = {"Hello", "Goodbye", "Zoom", "Garden", "Zibra", "Air"};
+
+	public static void main(String[] args) throws InterruptedException {
+		
+		System.out.println("3");
+		TimeUnit.SECONDS.sleep(1);
+		System.out.println("2");
+		TimeUnit.SECONDS.sleep(1);
+		System.out.println("1");
+		TimeUnit.SECONDS.sleep(1);
+		
+		System.out.println(word[1]);
+		
+	}
+
+}

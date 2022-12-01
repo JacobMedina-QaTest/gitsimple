@@ -1,0 +1,10 @@
+package com.gitpractice.project;
+
+public class WordPerMinClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
